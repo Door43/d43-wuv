@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wuv:home|Door43 (wuv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wuv|d43-wuv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wuv/archive/master.zip|d43-wuv.zip]]
+
+**Recent Changes**
+{{changes>ns = wuv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wuv|Ethnologue data]]
+
